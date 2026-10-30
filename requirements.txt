@@ -1,0 +1,12 @@
+streamlit>=1.40,<2
+python-dotenv>=1.0
+pydantic>=2.7
+openai>=1.50
+langsmith>=0.1.125
+faiss-cpu>=1.8
+sentence-transformers>=3.0
+pypdf>=5.0
+autogen-agentchat>=0.4,<1
+autogen-ext[openai]>=0.4,<1
+pandas>=2.1
+altair>=5.0
